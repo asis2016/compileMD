@@ -1,9 +1,11 @@
+#!/usr/bin/env python3
+
 __author__ = 'Ashish Singh Maharjan'
 
 import os
 
-MD_LOC = 'md_docs'
-README = 'README.md'
+MD_LOC = './md_docs'
+README = './README.md'
 
 
 def compile_markdown():
